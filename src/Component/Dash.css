@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+   
+  }
+  
+  .wrapper{
+     height: 100%;
+     width: auto;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     
+  }
+  
+  .delete-btn{
+    color: red;
+    cursor: pointer;
+  }
+  
+  .btnn{
+    height: 10px;
+    width: 20px;
+    border: 2px solid red;
+    color:aqua;
+    background-color: brown;
+  }
+  
+  tbody{
+    margin-top: 25px;
+  }
+  
+  .form-container{
+    height: 600px;
+    width: 40%;
+    border: 2px solid black;
+    box-sizing: border-box;
+   
+  }
+  
+  
+  
+  .heading{
+    
+    text-align: center;
+  }
+  
